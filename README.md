@@ -1,4 +1,4 @@
-## Sugestão de Texto para o README Adaptando para o Conjunto de Dados sobre Hérnia de Disco nos EUA
+
 
 **Título:** Predição de Tipos de Hérnia de Disco nos EUA: Um Estudo Comparativo de Modelos de Machine Learning
 
